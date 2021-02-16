@@ -19,3 +19,12 @@ project was launched. It can be concluded that Data analysis and Machine learnin
 beneficial within medical services to reduce errors in medical diagnoses. It is recommended that
 the system created in this project is further developed and refined to help make diagnoses more
 accurate in hospitals in general and in emergency departments specifically.
+
+
+Code
+
+https://github.com/fadi-dasus/FileUploadServer
+
+https://github.com/fadi-dasus/Front-end-Pneumonia
+
+https://github.com/fadi-dasus/PneumoniaBPR2

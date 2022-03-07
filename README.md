@@ -30,3 +30,5 @@ https://github.com/fadi-dasus/Front-end-Pneumonia
 https://github.com/fadi-dasus/PneumoniaBPR2
 
 https://github.com/fadi-dasus/PneumoniaMachineLearning
+
+https://github.com/mouhanadeem/PneumoniaMachine
